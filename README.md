@@ -10,7 +10,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Stack</h2>
+<h2 data-importer="text" align="left">Linguagens & Ferramentas</h2>
 
 ###
 
