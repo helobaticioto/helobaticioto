@@ -6,7 +6,7 @@
 
 ###
 
-<h6 data-importer="text" align="left">📔Estudante de Sistemas de informação - FIAP<br><br>🤖Especialista em AI - Alura <br><br>💻Aprendiz em gestão de projetos @Tecban<br><br>💜Apaixonada por tecnologia e inovação, sempre em busca de novos conhecimentos e experiências</h6>
+<h5 data-importer="text" align="left">📔Estudante de Sistemas de informação - FIAP<br><br>🤖Especialista em AI - Alura <br><br>💻Aprendiz em gestão de projetos @Tecban<br><br>💜Apaixonada por tecnologia e inovação, sempre em busca de novos conhecimentos e experiências</h5>
 
 ###
 
@@ -35,7 +35,7 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Bem%20vindos!&fontSize=22&fontColor=fff&fontAlign=9&fontAlignY=22&rotate=0&stroke=-&strokeWidth=0&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=993399"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=BEM%20VINDOS!&fontSize=22&fontColor=fff&fontAlign=9&fontAlignY=22&rotate=0&stroke=-&strokeWidth=0&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=993399"  />
 </div>
 
 ###
