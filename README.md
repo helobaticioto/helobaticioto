@@ -6,7 +6,7 @@
 
 ###
 
-<h5 data-importer="text" align="left">📔Estudante de Sistemas de informação - FIAP<br><br>🤖Especialista em AI - Alura <br><br>💻Aprendiz em gestão de projetos @Tecban<br><br>💜Apaixonada por tecnologia e inovação, sempre em busca de novos conhecimentos e experiências</h5>
+<h5 data-importer="text" align="left">📔Estudante de Sistemas de informação - FIAP<br><br>🤖Especialista em AI - Alura <br><br>💻 Gestão de projetos @Tecban<br><br>💜Apaixonada por tecnologia e inovação, sempre em busca de novos conhecimentos e experiências</h5>
 
 ###
 
